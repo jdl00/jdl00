@@ -10,32 +10,15 @@ Midlands, UK 🇬🇧 (Open to Relocation)
 
 ## 🚀 About Me
 
-I'm a versatile and innovative software engineer with a strong focus on Machine Learning and Full-Stack Development. Passionate about developing efficient AI models and building scalable web applications, I'm constantly seeking to combine cutting-edge technologies with user-centered design.
+I'm currently a Machine Learning Engineer at ApplyDrone, specializing in computer vision recognition. My work revolves around developing and refining AI models for real-time image and pattern recognition, with a particular focus on YOLO-based computer vision models for IoT devices. Passionate about harnessing the power of AI to solve complex problems, I am committed to pushing the boundaries of machine learning and delivering innovative solutions in the field of computer vision.
 
 ---
 
-## 💼 Experience
+## 🌟 Projects
 
-### Consultant Machine Learning Engineer @ Apply Drone
-_Sept 2023 - Present_
-- Developed a YOLO-based computer vision model for IoT devices, with 86% accuracy on validation sets.
-- Implemented quantisation techniques for model efficiency.
-- Calibrated probability metrics for improved accuracy.
-- Currently redesigning company website for better user experience and lead generation.
+- **Counsel Ease:** A Next.js and FastAPI based journaling web application utilizing AI for user insights. Currently in development.
 
-### Freelance FullStack Engineer @ Gulfstream
-_July 2023 - Sept 2023_
-- Led the migration and redesign of a Next.js website, reducing operational costs by 8%.
-- Improved SERP rankings and website traffic through strategic SEO.
-
-### Software Engineer @ ITP Engines UK
-_Sept 2021 - Sept 2022_
-- Delivered production code for clients like ESA.
-- Managed 2022 Q1 service pack release, and performed a project-wide refactor.
-
-### Jr. Full-Stack Developer @ CloudCall
-_July 2016 - Sept 2016_
-- Developed a rendition of Space Invaders and managed micro-services.
+- **Emotion Recognition:** A Machine learning project to recognise emotions using a CNN and Haar-Cascade Currently in development.
 
 ---
 
@@ -54,13 +37,6 @@ _July 2016 - Sept 2016_
 Loughborough University  
 _Dissertation in Distributed Neural Networks for Stock Market Analysis_
 
----
-
-## 🌟 Projects
-
-- **Counsel Ease:** A Next.js and FastAPI based journaling web application utilizing AI for user insights. Currently in development.
-
-- **Emotion Recognition:** A Machine learning project to recognise emotions using a CNN and Haar-Cascade Currently in development.
 
 ---
 
