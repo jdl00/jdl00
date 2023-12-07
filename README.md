@@ -1,6 +1,6 @@
 # Jonas Lindstrom
 
-### Consultant Machine Learning Engineer | Full-Stack Engineer | Software Engineer
+### Machine Learning Engineer | Full-Stack Engineer 
 
 Midlands, UK 🇬🇧 (Open to Relocation)  
 📧 [me@jonaslindstrom.co.uk](mailto:me@jonaslindstrom.co.uk)  
